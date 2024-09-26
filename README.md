@@ -4,6 +4,6 @@ Ce projet est ouvert aux contributions. Pour nous aider, clonez le dépôt et ap
 
 D'autre part, il se doit d'être une description approximative de l'étendue de notre ignorance. Dans ce but, les inconsistances, incohérences, erreurs et autres mauvaises approximations se doivent d'être reportées et listées. De même, les points qui ne sont pas (ou qui sont mal) abordés peuvent être répertoriés. Pour participer à ce recensement ou pour proposer un contre-argument, ouvrez une `issue` en décrivant le mieux possible le problème.
 
-Aucune filtre de niveau académique ou d'appartenance à un quelconque groupe n'est appliqué quant aux révisions des requêtes de tirage et des erreurs connues. Veillez à détailler correctement votre travail, à référencer toutes vos sources et à respecter notre style et direction d'écriture.
+Aucun filtre de niveau académique ou d'appartenance à un quelconque groupe n'est appliqué quant aux révisions des requêtes de tirage et des erreurs connues. Veillez à détailler correctement votre travail, à référencer toutes vos sources et à respecter notre style et direction d'écriture.
 
 À compter de la date de dépôt du présent manifeste, les contributions sont ouvertes et le développement peut débuter. L'historique des révisions, changements et ajouts au projet est et restera ouvert et public grâce à git.
