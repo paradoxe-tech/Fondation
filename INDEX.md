@@ -26,3 +26,4 @@ De même, ces implications peuvent être complémentées par des propositions et
 Compte tenu du monde décrit par ces implications, il est raisonnable (voire nécessaire) de modifier nos habitudes pour utiliser au mieux notre connaissance des lois de l'univers. Notamment, il nous est possible de construire des systèmes utiles et pour certains très performants à partir des assertions du projet **Fondation** :
 
 * [[Paradigme Bayésien]]
+* [[Logique Intuitionniste]]
