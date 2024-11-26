@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path:suggestions",
+      "query": "path:extensions  ",
       "color": {
         "a": 1,
         "rgb": 5439380
