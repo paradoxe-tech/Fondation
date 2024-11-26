@@ -1,1 +1,1 @@
-[[Déterminisme universel]]
+[[Hasard comme incertitude]]
