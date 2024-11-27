@@ -1,4 +1,5 @@
-[[Déterminisme universel]]
-[[Espace-temps discret]]
-[[Univers informationnel fini]]
-[[Thèse de Church-Turing étendue]]
+Supposons que $S(t)$ représente l'état complet de l'univers à un instant $t$. Si le [[Déterminisme universel]] est vérifié et en notant $F$ l'ensemble des règles qui s'appliquent, $\forall{t} \space{} S_t = F(S_{t - 1})$ .
+
+Étant donnée l'hypothèse de [[Localité des interactions]], $F$ est descriptible par une quantité finie d'information. En effet, $F$ est décomposable en un nombre fini de règles locales $f_i$ qui, à chaque point de l'espace-temps $x_t^{(i)}$, associent un nouvel état $x_{t+1}^{(i)}$ en fonction du voisinage fini de $x_{t}^{(i)}$. Cette propriété implique le fait que l'infinité de l'univers n'augmente pas la taille de la description de $F$, car elle est gérée par une composition parallèle de multiples $f_i$ : sa complexité de Kolmogorov est bornée par la taille des règles locales.
+
+De plus, l'entrée et la sortie de $F$ sont des états de l'univers, ce qui correspond à un ensemble de "points" de l'espace-temps. Si on considère vraie l'hypothèse de l'[[Espace-temps discret]], chaque $f_i$ agit sur un ensemble fini ou dénombrable d'états, et est donc calculable. Comme $F$ est une composition finie de tous les $f$, $F$ est elle-même calculable. L'état complet de l'univers $S_t$ à tout instant $t$ peut donc être calculé de manière constructive à partir de $S_0$ dans un univers fini ou infini à l'espace-temps discret.

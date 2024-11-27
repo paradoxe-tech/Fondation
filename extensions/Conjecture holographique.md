@@ -1,1 +1,2 @@
-[[Univers informationnel fini]]
+[[Espace-temps discret]]
+[[Localité des interactions]]

@@ -1,0 +1,1 @@
+S(x,t+1)=f({S(x′,t)∣d(x,x′)≤r}), où d(x,x′)d(x, x')d(x,x′) est une distance finie et fff est une fonction locale.

@@ -1,1 +1,0 @@
-[[Univers informationnel fini]]
