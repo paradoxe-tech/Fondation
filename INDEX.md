@@ -2,7 +2,7 @@
 
 Le projet **Fondation** assume un certain nombre de propositions comme étant très probablement vraies. Le modèle dans son ensemble se doit d'être construit à partir de ces assertions, dans leur sens et sans les contredire. Ces dernières se doivent d'être un nombre limité, conformément au principe de minimisation du coût épistémique des règles élémentaires. Ces propositions doivent être ordonnées en fonction de la crédence que notre modèle a dans chacune d'elles, dans l'objectif d'être réflectif sur le bien-fondé de certaines implications et de mieux décider dans le cas d'une éventuelle contradiction locale. Ces dernières sont les suivantes :
 
-1. [[Déterminisme universel]]
+1. [[Déterminisme Laplacien]]
 2. [[Espace-temps discret]]
 3. [[Localité des interactions]]
  

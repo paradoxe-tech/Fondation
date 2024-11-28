@@ -1,1 +1,1 @@
-[[Hasard comme incertitude]]
+[[Déterminisme Laplacien]]
