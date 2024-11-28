@@ -11,6 +11,5 @@ Le projet **Fondation** assume un certain nombre de propositions comme étant tr
 Ces assertions, lorsqu'elles sont bien comprises et bien appliquées, causent un grand nombre de bouleversements épistémiques. Elles réfutent certaines théories, participent à la démonstration d'autres et sont à l'origine de quelques modèles très utiles pour décrire l'univers, et ce dans des domaines très largement diversifiés. Ci-dessous sont listées les conséquences des assertions de **Fondation**.
 
 4. (1) ^ (2) ^ (3) -> [[Hypothèse de l'Univers calculable]]
-5. (1) -> [[Hasard comme incertitude]]
-6. (4) -> [[Fonctionnalisme computationnel]]
-7. (4) -> [[Vérité nécessairement constructible]]
+5. (4) -> [[Fonctionnalisme computationnel]]
+6. (4) -> [[Vérité nécessairement constructible]]
