@@ -1,2 +1,1 @@
-[[Information totale finie]]
-[[Déterminisme Laplacien]]
+[[Univers globalement calculable]]
