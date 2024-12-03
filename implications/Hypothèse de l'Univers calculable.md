@@ -1,7 +1,0 @@
-Supposons que $S(t)$ représente l'état complet de l'univers à un instant $t$. Si le [[Déterminisme Laplacien]] est vérifié et en notant $F$ l'ensemble des règles qui s'appliquent, $\forall{t} \space S_{t+1} = F(S_{t})$ ; et selon l'hypothèse de [[Localité des interactions]], $F$ est décomposable en un nombre fini de règles locales $f$ qui, à chaque point de l'espace-temps $x_i(t)$, associent un nouvel état $x_i(t+1)$ en fonction du voisinage fini $N$ de $x_i(t)$. Cette propriété implique le fait que l'infinité de l'univers n'augmente pas la taille de la description de $F$, car elle est gérée par une composition parallèle de multiples $f$ : sa complexité de Kolmogorov est bornée par la taille des règles locales. Pour cette raison, $F$ est toujours descriptible par une quantité finie d'information.
-
-$$
-S_{t + 1} = F(S_{t}) = \bigcup_{i} f(N(x_i(t)))
-$$
-
-De plus, l'entrée et la sortie de $F$ sont des états de l'univers, ce qui correspond à un ensemble de "points" de l'espace-temps. Si on considère vraie l'hypothèse de l'[[Espace-temps discret]], chaque application locale $f$ agit sur un ensemble fini ou dénombrable d'états, et est donc calculable. Comme $F$ est une composition finie de tous les $f$, elle est elle-même calculable. L'état complet de l'univers $S_t$ à tout instant $t$ peut donc être calculé de manière constructive à partir de $S_0$ dans un univers fini ou infini à l'espace-temps discret.

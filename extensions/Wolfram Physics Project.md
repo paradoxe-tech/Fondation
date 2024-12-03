@@ -1,1 +1,1 @@
-[[Hypothèse de l'Univers calculable]]
+[[Univers calculable localement]]
